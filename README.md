@@ -11,9 +11,11 @@ On the website, you can change the different RGB values using a color picker. Pr
 1. In the folder, right click and select 'Open in terminal'.
 ![{5C1808C5-8182-439E-BAAA-D1ADE6CFBFDC}](https://github.com/user-attachments/assets/081990dc-2c7c-4b6c-9ec5-0ad50a446d0f)
 
+
 2. In the terminal, write 'node server.js'. It should show this after entering:
 
 ![{8D028B1D-30FB-41FE-AE83-CA1D25CF55F3}](https://github.com/user-attachments/assets/7694214d-5064-4733-b188-35d9fccb6601)
+
 
 3. Go to your search engine of choice and search for 'localhost:3000/'
 ![{75D951D4-94B3-446B-A02E-A5EF7C8ABE09}](https://github.com/user-attachments/assets/9271fd80-8e0e-43d4-b849-6a89584345e5)
